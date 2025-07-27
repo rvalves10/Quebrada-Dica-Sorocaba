@@ -1,6 +1,6 @@
 # QuebraDica Sorocaba 🚀
 
-![Imagem de Capa do Projeto](https://placehold.co/800x400/121212/F9C846?text=QuebraDica+Soro)
+![Imagem de Capa do Projeto](https://placehold.co/800x400/121212/F9C846?text=QuebraDica+Sorocaba)
 
 **O portal colaborativo da galera de Sorocaba-SP! Encontre e compartilhe as melhores dicas da cidade.**
 
